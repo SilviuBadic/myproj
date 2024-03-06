@@ -9,7 +9,7 @@ is to create a simple list of to-do things just by typing them into the placehol
 ## Demo
 
 You can check out the live version here:
-(https://silviubadic.github.io/todo_react/))
+https://silviubadic.github.io/todo_react/
 
 ## Screenshots
 <img width="1050" alt="v1" src="https://github.com/SilviuBadic/todo_react/assets/130041755/829a80f2-9b95-4e6a-81ce-fee84fd55e17">
