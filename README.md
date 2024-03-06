@@ -9,27 +9,28 @@ is to create a simple list of to-do things just by typing them into the placehol
 ## Demo
 
 You can check out the live version here:
-(http://localhost:3000/)
+(https://silviubadic.github.io/todo_react/))
 
 ## Screenshots
+<img width="1050" alt="v1" src="https://github.com/SilviuBadic/todo_react/assets/130041755/829a80f2-9b95-4e6a-81ce-fee84fd55e17">
 
-<img width="1050" alt="v1" src="https://github.com/SilviuBadic/todo_list_react/assets/130041755/a50839f9-d05d-44a5-a2d4-38b56d4dcf32">
+
+<br>
+<br>
+<img width="1050" alt="v2" src="https://github.com/SilviuBadic/todo_react/assets/130041755/6e03cde6-0dc4-401a-b6b1-57e9a2158244">
+
+
+<br>
+<br>
+<img width="1050" alt="v3" src="https://github.com/SilviuBadic/todo_react/assets/130041755/89a6bd84-9407-4af0-b4a2-208418872563">
 
 <br>
 <br>
 
-<img width="1050" alt="v2" src="https://github.com/SilviuBadic/todo_list_react/assets/130041755/97add487-db15-437b-b619-e4e536413c49">
-
-<br>
-<br>
-<img width="1050" alt="v3" src="https://github.com/SilviuBadic/todo_list_react/assets/130041755/61956351-d76f-48e1-9676-2f2ccd697385">
-
-<br>
-<br>
 
 
+https://github.com/SilviuBadic/todo_react/assets/130041755/9d405dd4-6257-4700-8556-1fcc06e8efe6
 
-https://github.com/SilviuBadic/todo_list_react/assets/130041755/96b2f804-b658-4fc0-8348-5a562383f80f
 
 
 
