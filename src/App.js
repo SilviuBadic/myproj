@@ -4,7 +4,6 @@ import './App.css';
 import Form from "./components/Form";
 import ToDoList from "./components/Todolist";
 import Todo from "./components/Todo";
-import { HashRouter } from "react-router-dom";
 
 function App() {
   const [input, setInput] = useState("");
