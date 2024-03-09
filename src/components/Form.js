@@ -32,7 +32,7 @@ const Form = ({ setInput, todos, setTodos, input, value,setValues }) => {
           onChange = {inputTextHandler} 
           type="text" 
           className="todo_input" 
-          placeholder='Type something here...'/>
+          placeholder='Type something here..'/>
           <button onClick = {submitTodoHandler} className="todo_btn" type="submit">
             <i className="fa fa-plus"></i>
           </button>
